@@ -7,7 +7,7 @@ under the same terms of the files in the parent directory otherwise.
 -----------------------------------------------------------------------
 BSD License 2.0
 
-Copyright (c) 2018, Coppelia Robotics GmbH
+Copyright (c) 2019, Coppelia Robotics GmbH
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
